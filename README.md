@@ -1,7 +1,9 @@
 # GET customers config 
 ## About
+```
 customers/:id/users endpoint returns configuration for a customer whose id is passed as input
 Request Type : GET
+```
 
 ## Request Parameters
 |Parameter |Type |Required| Description|
