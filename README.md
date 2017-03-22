@@ -1,1 +1,3 @@
-# TEST_DOCUMENTATION
+# GET customers config 
+## GET customers config 
+GET customers config 
