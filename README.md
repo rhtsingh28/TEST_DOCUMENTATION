@@ -20,6 +20,7 @@ Request Type : GET
 
 
 # Response format
+```
 { 
 "id": 6971300, 
 "allowCancelNomination": false, 
@@ -27,3 +28,6 @@ Request Type : GET
 "allowCancelScheduledECard": false, 
 "allowCancelMonetaryECard": false 
 }
+```
+
+# Thank you !
