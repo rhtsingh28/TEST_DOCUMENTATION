@@ -3,6 +3,11 @@
 customers/:id/users endpoint returns configuration for a customer whose id is passed as input
 Request Type : GET
 
+## Request Parameters
+|Parameter |Type |Required| Description|
+|----------|-----|------------|------|
+|Id|Long	|Yes|Id of customer for which request is made|
+
 
 ## Response Parameters
 |Parameter |Type | Description|
@@ -10,7 +15,7 @@ Request Type : GET
 |Id|Long	|Id of customer for which request was made|
 |allowCancelNomination|	boolean|	Returns true if cancelling nomination is enabled for the customer|
 |allowCancelNominationAfterDeposit|	boolean|	Returns true if cancelling nomination after deposit is enabled for the customer|
-allowCancelScheduledECard|	boolean|	Returns true if cancelling Scheduled Ecard is enabled for the customer|
-allowCancelMonetaryECard|	boolean|	Returns true if cancelling Monetary Ecard is enabled for the customer|
+|allowCancelScheduledECard|	boolean|	Returns true if cancelling Scheduled Ecard is enabled for the customer|
+|allowCancelMonetaryECard|	boolean|	Returns true if cancelling Monetary Ecard is enabled for the customer|
 
 
