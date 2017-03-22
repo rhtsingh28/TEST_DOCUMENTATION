@@ -19,3 +19,11 @@ Request Type : GET
 |allowCancelMonetaryECard|	boolean|	Returns true if cancelling Monetary Ecard is enabled for the customer|
 
 
+# Response format
+{ 
+"id": 6971300, 
+"allowCancelNomination": false, 
+"allowCancelNominationAfterDeposit": false, 
+"allowCancelScheduledECard": false, 
+"allowCancelMonetaryECard": false 
+}
