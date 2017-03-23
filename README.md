@@ -40,4 +40,4 @@ Request Type : GET
 |404|	Not Found|	if the customer does not exist|
 
 # Thank you !
-[a link](https://github.com/)
+[GitHub](https://github.com/)
