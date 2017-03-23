@@ -32,4 +32,11 @@ Request Type : GET
 }
 ```
 
+## Status Code
+|Code |Status Text | Description|
+|----------|-----|------------|
+|400|Bad Request	|Too many for bad input|
+|401|	|	if called with an unauthorized client id|
+|404|	Not Found|	if the customer does not exist|
+
 # Thank you !
