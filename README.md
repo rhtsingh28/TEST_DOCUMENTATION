@@ -22,7 +22,6 @@ Request Type : GET
 
 
 # Response format
-```
 { 
 "id": 6971300, 
 "allowCancelNomination": false, 
@@ -41,3 +40,4 @@ Request Type : GET
 
 # Thank you !
 [GitHub](https://github.com/)
+
